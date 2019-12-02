@@ -1,0 +1,28 @@
+{
+  "name": "for-lazies",
+  "version": "1.0.0",
+  "description": "A tree generator of CSS classes based on HTML files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --watch 'src/' --exec \"ts-node src/entry.ts\" -e ts",
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "tslint -p tsconfig.json"
+  },
+  "author": "Matheus Daros Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^15.2.1",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^12.2.4",
+    "@types/lodash": "^4.14.149",
+    "@types/node": "^12.12.14",
+    "nodemon": "^2.0.1",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.2"
+  },
+  "files": [ "dist/**/*" ]
+}

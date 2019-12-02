@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="pt-BR" id="elemento" class="sou uma classe">
+    <head>
+
+                <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+        <meta name="theme-color" content="#000000">
+        <meta name="format-detection" content="telephone=no"/>
+        <link href="https://fonts.googleapis.com/css?family=Encode+Sans+Semi+Condensed&display=swap" rel="stylesheet">
+
+        <title>DEPS</title>
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://server.infodataweb.com.br/~depscom/wp-includes/css/dist/block-library/style.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bodhi-svgs-attachment-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/plugins/svg-support/css/svgs-attachment.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dft-main-less-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/uploads/wp-less-cache/dft-main-less.css?ver=1575062559' type='text/css' media='all' />
+<link rel='stylesheet' id='dft-matheus-less-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/uploads/wp-less-cache/dft-matheus-less.css?ver=1575060537' type='text/css' media='all' />
+<link rel='stylesheet' id='dft-thiago-less-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/uploads/wp-less-cache/dft-thiago-less.css?ver=1575060888' type='text/css' media='all' />
+<link rel='stylesheet' id='dft-main-css-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/themes/wp-drift-master/style.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dft-modal-video-css-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/themes/wp-drift-master/lib/modal-video/modal-video.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css-css'  href='https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-asp-basic-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/plugins/ajax-search-pro/css/style.basic.css?ver=3Aj6WV' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-asp-chosen-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/plugins/ajax-search-pro/css/chosen/chosen.css?ver=3Aj6WV' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-ajaxsearchpro-instances-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/uploads/asp_upload/style.instances.css?ver=3Aj6WV' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15' type='text/css' media='all' />
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cssTarget = "img.style-svg";
+var ForceInlineSVGActive = "false";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-content/plugins/svg-support/js/min/svgs-inline-min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-content/themes/wp-drift-master/lib/modal-video/jquery-modal-video.min.js?ver=5.2.4'></script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js?ver=5.2.4'></script>
+<link rel='https://api.w.org/' href='https://server.infodataweb.com.br/~depscom/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://server.infodataweb.com.br/~depscom/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://server.infodataweb.com.br/~depscom/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.4" />
+<link rel="canonical" href="https://server.infodataweb.com.br/~depscom/" />
+<link rel='shortlink' href='https://server.infodataweb.com.br/~depscom/' />
+<link rel="alternate" type="application/json+oembed" href="https://server.infodataweb.com.br/~depscom/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fserver.infodataweb.com.br%2F%7Edepscom%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://server.infodataweb.com.br/~depscom/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fserver.infodataweb.com.br%2F%7Edepscom%2F&#038;format=xml" />
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Compartilhar",
+	Save: "Salvar",
+	Subscribe: "Inscrever",
+	Email: "Email",
+	Bookmark: "Favoritos",
+	ShowAll: "Mostrar tudo",
+	ShowLess: "Mostrar menos",
+	FindServices: "Procurar servi�o(s)",
+	FindAnyServiceToAddTo: "Encontrar rapidamente qualquer servi�o para",
+	PoweredBy: "Servi�o fornecido por",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Adicionar aos favoritos",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Adicionar a favoritos",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;",
+	ThanksForSharing: "Thanks for sharing!",
+	ThanksForFollowing: "Thanks for following!"
+};
+
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+                <link href='//fonts.googleapis.com/css?family=Open+Sans:300|Open+Sans:400|Open+Sans:700' rel='stylesheet' type='text/css'>
+                		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		            <style type="text/css">
+                <!--
+                @font-face {
+                    font-family: 'asppsicons2';
+                    src: url('https://server.infodataweb.com.br/~depscom/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.eot');
+                    src: url('https://server.infodataweb.com.br/~depscom/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.eot?#iefix') format('embedded-opentype'),
+                    url('https://server.infodataweb.com.br/~depscom/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.woff2') format('woff2'),
+                    url('https://server.infodataweb.com.br/~depscom/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.woff') format('woff'),
+                    url('https://server.infodataweb.com.br/~depscom/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.ttf') format('truetype'),
+                    url('https://server.infodataweb.com.br/~depscom/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.svg#icons') format('svg');
+                    font-weight: normal;
+                    font-style: normal;
+                }
+                .asp_m{height: 0;}                -->
+            </style>
+                        <script type="text/javascript">
+                if ( typeof _ASP !== "undefined" && _ASP !== null && typeof _ASP.initialize !== "undefined" )
+                    _ASP.initialize();
+            </script>
+            <link rel="icon" href="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/cropped-Camada-34-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/cropped-Camada-34-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/cropped-Camada-34-180x180.png" />
+<meta name="msapplication-TileImage" content="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/cropped-Camada-34-270x270.png" />
+
+        
+        <!-- Fontes -->
+        <style type="text/css">
+            @font-face {
+                font-family: "Neo";
+                src: url(https://server.infodataweb.com.br/~depscom/wp-content/themes/wp-drift-master/fontes/neo-sans-pro-thin.woff2);
+                font-weight: 300;
+                font-display: swap;
+            }
+            @font-face {
+                font-family: "Neo";
+                src: url(https://server.infodataweb.com.br/~depscom/wp-content/themes/wp-drift-master/fontes/neo-sans-pro-regular.woff2);
+                font-weight: 400;
+                font-display: swap;
+            }
+            @font-face {
+                font-family: "Neo";
+                src: url(https://server.infodataweb.com.br/~depscom/wp-content/themes/wp-drift-master/fontes/neo-sans-pro-semi-bold.woff2);
+                font-weight: 500;
+                font-display: swap;
+            }
+            @font-face {
+                font-family: "Neo";
+                src: url(https://server.infodataweb.com.br/~depscom/wp-content/themes/wp-drift-master/fontes/neo-sans-pro-bold.woff2);
+                font-weight: 700;
+                font-display: swap;
+            }
+            @font-face {
+                font-family: "Gilam";
+                src: url(https://server.infodataweb.com.br/~depscom/wp-content/themes/wp-drift-master/fontes/Gilam-Light.woff2);
+                font-weight: 300;
+                font-display: swap;
+            }
+            @font-face {
+                font-family: "Gilam";
+                src: url(https://server.infodataweb.com.br/~depscom/wp-content/themes/wp-drift-master/fontes/Gilam-Regular.woff2);
+                font-weight: 400;
+                font-display: swap;
+            }
+            @font-face {
+                font-family: "Gilam";
+                src: url(https://server.infodataweb.com.br/~depscom/wp-content/themes/wp-drift-master/fontes/Gilam-SemiBold.woff2);
+                font-weight: 500;
+                font-display: swap;
+            }
+            @font-face {
+                font-family: "Gilam";
+                src: url(https://server.infodataweb.com.br/~depscom/wp-content/themes/wp-drift-master/fontes/Gilam-Bold.woff2);
+                font-weight: 700;
+                font-display: swap;
+            }
+        </style>
+    </head>
+
+    <body class="home page-template-default page page-id-7">
+        <header class="main-header transparent">
+    <div class="header-grid">
+        <a href='https://server.infodataweb.com.br/~depscom'><img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/Camada-34.png' alt='logo' /></a>
+                    <nav class="nav-menu" role="navigation">
+                <div class="menu-menu-principal-container"><ul id="menu-menu-principal" class="menu"><li id="menu-item-17519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17519"><a href="https://server.infodataweb.com.br/~depscom/empresa/">Empresa</a></li>
+<li id="menu-item-18001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18001"><a href="https://server.infodataweb.com.br/~depscom/solucoes/">Plataforma</a></li>
+<li id="menu-item-17521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17521"><a href="https://server.infodataweb.com.br/~depscom/blog/">Blog</a></li>
+<li id="menu-item-17523" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-17523"><a href="https://server.infodataweb.com.br/~depscom/#section-adquirir" aria-current="page">Como Adquirir</a></li>
+<li id="menu-item-17522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17522"><a href="https://server.infodataweb.com.br/~depscom/sou-cliente/">Sou Cliente</a></li>
+</ul></div>            </nav>
+        <div class='asp_w asp_m asp_m_1 asp_m_1_1 wpdreams_asp_sc wpdreams_asp_sc-1 ajaxsearchpro asp_main_container  asp_non_compact'
+     data-id="1"
+          data-instance="1"
+     id='ajaxsearchpro1_1'>
+<div class="probox">
+    
+    <div class='promagnifier'>
+        	    <div class='asp_text_button hiddend'>
+		    Search	    </div>
+        <div class='innericon'>
+            <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path d="M460.355 421.59l-106.51-106.512c20.04-27.553 31.884-61.437 31.884-98.037C385.73 124.935 310.792 50 218.685 50c-92.106 0-167.04 74.934-167.04 167.04 0 92.107 74.935 167.042 167.04 167.042 34.912 0 67.352-10.773 94.184-29.158L419.945 462l40.41-40.41zM100.63 217.04c0-65.095 52.96-118.055 118.056-118.055 65.098 0 118.057 52.96 118.057 118.056 0 65.097-52.96 118.057-118.057 118.057-65.096 0-118.055-52.96-118.055-118.056z"/></svg>        </div>
+	    <div class="asp_clear"></div>
+    </div>
+
+    
+    
+    <div class='prosettings' style='display:none;' data-opened=0>
+                <div class='innericon'>
+            <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path id="control-panel-4-icon" d="M170 294c0 33.138-26.862 60-60 60-33.137 0-60-26.862-60-60 0-33.137 26.863-60 60-60 33.138 0 60 26.863 60 60zm-60 90c-6.872 0-13.565-.777-20-2.243V422c0 11.046 8.954 20 20 20s20-8.954 20-20v-40.243c-6.435 1.466-13.128 2.243-20 2.243zm0-180c6.872 0 13.565.777 20 2.243V90c0-11.046-8.954-20-20-20s-20 8.954-20 20v116.243c6.435-1.466 13.128-2.243 20-2.243zm146-7c12.13 0 22 9.87 22 22s-9.87 22-22 22-22-9.87-22-22 9.87-22 22-22zm0-38c-33.137 0-60 26.863-60 60 0 33.138 26.863 60 60 60 33.138 0 60-26.862 60-60 0-33.137-26.862-60-60-60zm0-30c6.872 0 13.565.777 20 2.243V90c0-11.046-8.954-20-20-20s-20 8.954-20 20v41.243c6.435-1.466 13.128-2.243 20-2.243zm0 180c-6.872 0-13.565-.777-20-2.243V422c0 11.046 8.954 20 20 20s20-8.954 20-20V306.757c-6.435 1.466-13.128 2.243-20 2.243zm146-75c-33.137 0-60 26.863-60 60 0 33.138 26.863 60 60 60 33.138 0 60-26.862 60-60 0-33.137-26.862-60-60-60zm0-30c6.872 0 13.565.777 20 2.243V90c0-11.046-8.954-20-20-20s-20 8.954-20 20v116.243c6.435-1.466 13.128-2.243 20-2.243zm0 180c-6.872 0-13.565-.777-20-2.243V422c0 11.046 8.954 20 20 20s20-8.954 20-20v-40.243c-6.435 1.466-13.128 2.243-20 2.243z"/></svg>        </div>
+    </div>
+
+    
+    
+    <div class='proinput'>
+        <form action='#' autocomplete="off" aria-label="Search form 1">
+            <input type='search' class='orig'
+                   placeholder='Pesquise aqui...'
+                   name='phrase' value=''
+                   aria-label="Search input 1"
+                   autocomplete="off"/>
+            <input type='text' class='autocomplete' name='phrase' value=''
+                   aria-label="Search autocomplete, ignore please"
+                   aria-hidden="true"
+                   autocomplete="off" disabled/>
+            <input type='submit'
+                   aria-hidden="true"
+                   aria-label="Hidden button"
+                   style='width:0; height: 0; visibility: hidden;'>
+        </form>
+    </div>
+
+    
+    
+    <div class='proloading'>
+                        <div class="asp_loader">
+            <div class="asp_loader-inner asp_simple-circle">
+                        </div>
+        </div>
+                    </div>
+
+            <div class='proclose'>
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                 y="0px"
+                 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512"
+                 xml:space="preserve">
+            <polygon id="x-mark-icon"
+                     points="438.393,374.595 319.757,255.977 438.378,137.348 374.595,73.607 255.995,192.225 137.375,73.622 73.607,137.352 192.246,255.983 73.622,374.625 137.352,438.393 256.002,319.734 374.652,438.378 "/>
+            </svg>
+        </div>
+    
+    
+</div><div id='ajaxsearchprores1_1' class='asp_w asp_r asp_r_1 asp_r_1_1 vertical ajaxsearchpro wpdreams_asp_sc wpdreams_asp_sc-1'
+     data-id="1"
+     data-instance="1">
+
+    
+    
+    
+    <div class="results">
+
+        
+        <div class="resdrg">
+        </div>
+
+        
+    </div>
+
+    
+    
+    
+
+    <div class="asp_res_loader hiddend">
+                    <div class="asp_loader">
+                <div class="asp_loader-inner asp_simple-circle">
+                                </div>
+            </div>
+            </div>
+</div>    <div id='ajaxsearchprosettings1_1' class="asp_w asp_s asp_s_1 asp_s_1_1 wpdreams_asp_sc wpdreams_asp_sc-1 ajaxsearchpro searchsettings"
+    data-id="1"
+    data-instance="1">
+<form name='options' class="asp-fss-flex" autocomplete = 'off'>
+        <input type="hidden" style="display:none;" name="current_page_id" value="7">
+            <input type='hidden' name='qtranslate_lang' style="display:none;"
+               value='0'/>
+    	    <input type="hidden" name="filters_changed" style="display:none;" value="0">
+    <input type="hidden" name="filters_initial" style="display:none;" value="1">
+    <fieldset class="asp_filter_generic asp_filter_id_1 asp_filter_n_0">
+            <legend>Generic filters</legend>
+    <div class="asp_option">
+    <div class="asp_option_inner">
+        <input type="checkbox" value="exact" id="set_exact1_1"
+                              aria-label="Exact matches only"
+               name="asp_gen[]" />
+        <label aria-hidden="true"
+               for="set_exact1_1">
+            Hidden label        </label>
+    </div>
+    <div class="asp_option_label">
+        Exact matches only    </div>
+</div>
+        <div class="asp_option hiddend" aria-hidden="true">
+            <div class="asp_option_inner">
+                <input type="checkbox" value="title" id="set_title1_1"
+                       name="asp_gen[]"  checked="checked"/>
+                <label for="set_title1_1">
+                    Hidden label                </label>
+            </div>
+        </div>
+            <div class="asp_option hiddend" aria-hidden="true">
+            <div class="asp_option_inner">
+                <input type="checkbox" value="content" id="set_content1_1"
+                       name="asp_gen[]"  checked="checked"/>
+                <label for="set_content1_1">
+                    Hidden label                </label>
+            </div>
+        </div>
+            <div class="asp_option hiddend" aria-hidden="true">
+            <div class="asp_option_inner">
+                <input type="checkbox" value="excerpt" id="set_excerpt1_1"
+                       name="asp_gen[]"  checked="checked"/>
+                <label for="set_excerpt1_1">
+                    Hidden label                </label>
+            </div>
+        </div>
+    </fieldset>        <input type="checkbox"
+               style="display: none !important;"
+               value="post"
+               aria-label="Hidden label"
+               aria-hidden="true"
+               id="1_1customset_1_1100"
+               name="customset[]" checked="checked"/>
+            <div style="clear:both;"></div>
+</form>
+</div>
+
+</div>
+<div class='asp_hidden_data' id="asp_hidden_data_1_1" style="display:none;">
+
+    <div class='asp_item_overlay'>
+        <div class='asp_item_inner'>
+            <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path d="M448.225 394.243l-85.387-85.385c16.55-26.08 26.146-56.986 26.146-90.094 0-92.99-75.652-168.64-168.643-168.64-92.988 0-168.64 75.65-168.64 168.64s75.65 168.64 168.64 168.64c31.466 0 60.94-8.67 86.176-23.734l86.14 86.142c36.755 36.754 92.355-18.783 55.57-55.57zm-344.233-175.48c0-64.155 52.192-116.35 116.35-116.35s116.353 52.194 116.353 116.35S284.5 335.117 220.342 335.117s-116.35-52.196-116.35-116.352zm34.463-30.26c34.057-78.9 148.668-69.75 170.248 12.863-43.482-51.037-119.984-56.532-170.248-12.862z"/></svg>                    </div>
+    </div>
+
+</div><div class="asp_init_data" style="display:none !important;" id="asp_init_id_1_1" data-aspdata="ew0KICAgICJob21ldXJsIjogImh0dHBzOi8vc2VydmVyLmluZm9kYXRhd2ViLmNvbS5ici9+ZGVwc2NvbS8iLA0KICAgICJyZXN1bHRzdHlwZSI6ICJ2ZXJ0aWNhbCIsDQogICAgInJlc3VsdHNwb3NpdGlvbiI6ICJob3ZlciIsDQogICAgInJlc3VsdHNTbmFwVG8iOiAibGVmdCIsDQogICAgInJlc3VsdHMiOiB7DQogICAgICAgICJ3aWR0aCI6ICJhdXRvIiwNCiAgICAgICAgIndpZHRoX3RhYmxldCI6ICJhdXRvIiwNCiAgICAgICAgIndpZHRoX3Bob25lIjogImF1dG8iDQogICAgfSwNCiAgICAiaXRlbXNjb3VudCI6IDQsDQogICAgImltYWdld2lkdGgiOiA3MCwNCiAgICAiaW1hZ2VoZWlnaHQiOiA3MCwNCiAgICAicmVzdWx0aXRlbWhlaWdodCI6ICJhdXRvIiwNCiAgICAic2hvd2F1dGhvciI6IDAsDQogICAgInNob3dkYXRlIjogMCwNCiAgICAic2hvd2Rlc2NyaXB0aW9uIjogMSwNCiAgICAiY2hhcmNvdW50IjogIDAsDQogICAgImRlZmF1bHRJbWFnZSI6ICJodHRwczovL3NlcnZlci5pbmZvZGF0YXdlYi5jb20uYnIvfmRlcHNjb20vd3AtY29udGVudC9wbHVnaW5zL2FqYXgtc2VhcmNoLXByby9pbWcvZGVmYXVsdC5qcGciLA0KICAgICJoaWdobGlnaHQiOiAwLA0KICAgICJoaWdobGlnaHR3aG9sZXdvcmRzIjogMSwNCiAgICAib3BlblRvQmxhbmsiOiAwLA0KICAgICJzY3JvbGxUb1Jlc3VsdHMiOiAwLA0KICAgICJyZXN1bHRhcmVhY2xpY2thYmxlIjogMSwNCiAgICAiYXV0b2NvbXBsZXRlIjogew0KICAgICAgICAiZW5hYmxlZCI6IDEsDQogICAgICAgICJnb29nbGVPbmx5IjogMSwNCiAgICAgICAgImxhbmciOiAiZW4iLA0KICAgICAgICAibW9iaWxlIjogMSAgICB9LA0KICAgICJ0cmlnZ2Vyb250eXBlIjogMSwNCiAgICAidHJpZ2dlcl9vbl9jbGljayI6IDEsDQogICAgInRyaWdnZXJPbkZhY2V0Q2hhbmdlIjogMSwNCiAgICAidHJpZ2dlciI6IHsNCiAgICAgICAgImRlbGF5IjogMzAwLA0KICAgICAgICAiYXV0b2NvbXBsZXRlX2RlbGF5IjogMzEwICAgIH0sDQogICAgIm92ZXJyaWRld3BkZWZhdWx0IjogMSwNCiAgICAib3ZlcnJpZGVfbWV0aG9kIjogImdldCIsDQogICAgInJlZGlyZWN0b25jbGljayI6IDAsDQogICAgInJlZGlyZWN0Q2xpY2tUbyI6ICJhamF4X3NlYXJjaCIsDQogICAgInJlZGlyZWN0Q2xpY2tMb2MiOiAic2FtZSIsDQogICAgInJlZGlyZWN0X29uX2VudGVyIjogMCwNCiAgICAicmVkaXJlY3RFbnRlclRvIjogImFqYXhfc2VhcmNoIiwNCiAgICAicmVkaXJlY3RFbnRlckxvYyI6ICJzYW1lIiwNCiAgICAicmVkaXJlY3RfdXJsIjogIj9zPXtwaHJhc2V9IiwNCiAgICAic2V0dGluZ3MiOiB7DQogICAgICAgICJoaWRlQ2hpbGRyZW4iOiAwICAgIH0sDQogICAgInNldHRpbmdzaW1hZ2Vwb3MiOiAicmlnaHQiLA0KICAgICJzZXR0aW5nc1Zpc2libGUiOiAwLA0KICAgICJzZXR0aW5nc0hpZGVPblJlcyI6IDAsDQogICAgImhyZXN1bHRoaWRlZGVzYyI6ICIwIiwNCiAgICAicHJlc2NvbnRhaW5lcmhlaWdodCI6ICI0MDBweCIsDQogICAgInBzaG93c3VidGl0bGUiOiAiMCIsDQogICAgInBzaG93ZGVzYyI6ICIxIiwNCiAgICAiY2xvc2VPbkRvY0NsaWNrIjogMSwNCiAgICAiaXNvdG9waWMiOiB7DQogICAgICAgICJpdGVtV2lkdGgiOiAiMjAwcHgiLA0KICAgICAgICAiaXRlbVdpZHRoVGFibGV0IjogIjIwMHB4IiwNCiAgICAgICAgIml0ZW1XaWR0aFBob25lIjogIjIwMHB4IiwNCiAgICAgICAgIml0ZW1IZWlnaHQiOiAiMjAwcHgiLA0KICAgICAgICAiaXRlbUhlaWdodFRhYmxldCI6ICIyMDBweCIsDQogICAgICAgICJpdGVtSGVpZ2h0UGhvbmUiOiAiMjAwcHgiLA0KICAgICAgICAiaWZOb0ltYWdlIjogImRlc2NyaXB0aW9uIiwNCiAgICAgICAgInBhZ2luYXRpb24iOiAxLA0KICAgICAgICAicm93cyI6IDIsDQogICAgICAgICJndXR0ZXIiOiA1LA0KICAgICAgICAic2hvd092ZXJsYXkiOiAxLA0KICAgICAgICAiYmx1ck92ZXJsYXkiOiAxLA0KICAgICAgICAiaGlkZUNvbnRlbnQiOiAxICAgIH0sDQogICAgImxvYWRlckxvY2F0aW9uIjogImF1dG8iLA0KICAgICJhbmFseXRpY3MiOiAwLA0KICAgICJhbmFseXRpY3NTdHJpbmciOiAiP2FqYXhfc2VhcmNoPXthc3BfdGVybX0iLA0KICAgICJzaG93X21vcmUiOiB7DQogICAgICAgICJlbmFibGVkIjogMCwNCiAgICAgICAgInVybCI6ICI/cz17cGhyYXNlfSIsDQogICAgICAgICJhY3Rpb24iOiAiYWpheCIsDQogICAgICAgICJsb2NhdGlvbiI6ICJzYW1lIiwNCiAgICAgICAgImluZmluaXRlIjogMSAgICB9LA0KICAgICJtb2JpbGUiOiB7DQogICAgICAgICJ0cmlnZ2VyX29uX3R5cGUiOiAxLA0KICAgICAgICAiY2xpY2tfYWN0aW9uIjogImFqYXhfc2VhcmNoIiwNCiAgICAgICAgInJldHVybl9hY3Rpb24iOiAiYWpheF9zZWFyY2giLA0KICAgICAgICAiY2xpY2tfYWN0aW9uX2xvY2F0aW9uIjogInNhbWUiLA0KICAgICAgICAicmV0dXJuX2FjdGlvbl9sb2NhdGlvbiI6ICJzYW1lIiwNCiAgICAgICAgInJlZGlyZWN0X3VybCI6ICI/cz17cGhyYXNlfSIsDQogICAgICAgICJoaWRlX2tleWJvYXJkIjogMSwNCiAgICAgICAgImZvcmNlX3Jlc19ob3ZlciI6IDAsDQogICAgICAgICJmb3JjZV9zZXR0X2hvdmVyIjogMCwNCiAgICAgICAgImZvcmNlX3NldHRfc3RhdGUiOiAiY2xvc2VkIg0KICAgIH0sDQogICAgImNvbXBhY3QiOiB7DQogICAgICAgICJlbmFibGVkIjogMCwNCiAgICAgICAgIndpZHRoIjogIjEwMCUiLA0KICAgICAgICAid2lkdGhfdGFibGV0IjogIjQ4MHB4IiwNCiAgICAgICAgIndpZHRoX3Bob25lIjogIjMyMHB4IiwNCiAgICAgICAgImNsb3NlT25NYWduaWZpZXIiOiAxLA0KICAgICAgICAiY2xvc2VPbkRvY3VtZW50IjogMCwNCiAgICAgICAgInBvc2l0aW9uIjogInN0YXRpYyIsDQogICAgICAgICJvdmVybGF5IjogMCAgICB9LA0KICAgICJzYiI6IHsNCiAgICAgICAgInJlZGlyZWN0X2FjdGlvbiI6ICJhamF4X3NlYXJjaCIsDQogICAgICAgICJyZWRpcmVjdF9sb2NhdGlvbiI6ICJzYW1lIiwNCiAgICAgICAgInJlZGlyZWN0X3VybCI6ICI/cz17cGhyYXNlfSINCiAgICB9LA0KICAgICJyYiI6IHsNCiAgICAgICAgImFjdGlvbiI6ICJub3RoaW5nIg0KICAgIH0sDQogICAgImFuaW1hdGlvbnMiOiB7DQogICAgICAgICJwYyI6IHsNCiAgICAgICAgICAgICJzZXR0aW5ncyI6IHsNCiAgICAgICAgICAgICAgICAiYW5pbSIgOiAiZmFkZWRyb3AiLA0KICAgICAgICAgICAgICAgICJkdXIiICA6IDMwMCAgICAgICAgICAgIH0sDQogICAgICAgICAgICAicmVzdWx0cyIgOiB7DQogICAgICAgICAgICAgICAgImFuaW0iIDogImZhZGVkcm9wIiwNCiAgICAgICAgICAgICAgICAiZHVyIiAgOiAzMDAgICAgICAgICAgICB9LA0KICAgICAgICAgICAgIml0ZW1zIiA6ICJmYWRlSW5Eb3duIg0KICAgICAgICB9LA0KICAgICAgICAibW9iIjogew0KICAgICAgICAgICAgInNldHRpbmdzIjogew0KICAgICAgICAgICAgICAgICJhbmltIiA6ICJmYWRlZHJvcCIsDQogICAgICAgICAgICAgICAgImR1ciIgIDogMzAwICAgICAgICAgICAgfSwNCiAgICAgICAgICAgICJyZXN1bHRzIiA6IHsNCiAgICAgICAgICAgICAgICAiYW5pbSIgOiAiZmFkZWRyb3AiLA0KICAgICAgICAgICAgICAgICJkdXIiICA6IDMwMCAgICAgICAgICAgIH0sDQogICAgICAgICAgICAiaXRlbXMiIDogInZvaWRhbmltIg0KICAgICAgICB9DQogICAgfSwNCiAgICAiY2hvc2VuIjogew0KICAgICAgICAibm9yZXMiOiAiTm8gcmVzdWx0cyBtYXRjaCINCiAgICB9LA0KICAgICJkZXRlY3RWaXNpYmlsaXR5IiA6IDAsDQogICAgImF1dG9wIjogew0KICAgICAgICAic3RhdGUiOiAiZGlzYWJsZWQiLA0KICAgICAgICAicGhyYXNlIjogIiIsDQogICAgICAgICJjb3VudCI6IDEwICAgIH0sDQogICAgInJlc1BhZ2UiOiB7DQogICAgICAgICJ1c2VBamF4IjogMCwNCiAgICAgICAgInNlbGVjdG9yIjogIiNtYWluIg0KICAgIH0sDQogICAgImZzc19sYXlvdXQiOiAiZmxleCIsDQogICAgInNjcm9sbEJhciI6IHsNCiAgICAgICAgInZlcnRpY2FsIjogew0KICAgICAgICAgICAgImF1dG9IaWRlIjogMSAgICAgICAgfSwNCiAgICAgICAgImhvcml6b250YWwiOiB7DQogICAgICAgICAgICAiYXV0b0hpZGUiOiAxICAgICAgICB9LA0KICAgICAgICAic2V0dGluZ3MiOiB7DQogICAgICAgICAgICAiYXV0b0hpZGUiOiAwICAgICAgICB9DQogICAgfSwNCiAgICAicHJldmVudEJvZHlTY3JvbGwiOiAwLA0KICAgICJzdGF0aXN0aWNzIjogMH0NCg=="></div>
+    </div>
+    </header>
+
+
+    
+    <section class="main" id="main" >
+
+
+
+        <section class="banner" id="section-banner" style="background-color: red; display: block; visibility: true;" >
+               <div class='banner' >
+                                        <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/Camada-48.jpg' alt='banner' class='banner' />
+                                        <div class='content'>
+                                            <h2>An�lise e  gest�o de cr�dito  para um �nico formato de neg�cio: o seu.</h2>
+                                            <h4>Seja uma pequena, m�dia  ou grande empresa,  n�s temos a solu��o.</h4>
+                                            <a href='https://server.infodataweb.com.br/~depscom/plataforma/'>Saiba mais</a>
+                                        </div>
+                                    </div>   <div class='banner' >
+                                        <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/Camada-36.jpg' alt='banner' class='banner' />
+                                        <div class='content'>
+                                            <h2>Simplifique o processo e facilite sua vida.</h2>
+                                            <h4>Integre diferentes plataformas de gest�o e atue em �nico ambiente.</h4>
+                                            <a href='https://server.infodataweb.com.br/~depscom/plataforma/'>Saiba mais</a>
+                                        </div>
+                                    </div>        </section>
+        <section data-aos="fade-up" class="conheca" id="section-conheca">
+              <div class='content'>
+                                        <div class='left-side'>
+                                            <h3>Recupera��o de cr�dito de forma simplificada</h3>
+                                        </div>
+                                        <div class='right-side'>
+                                            <p>Com a nossa plataforma voc�
+efetua c�lculo de saldo, de refinanciamento,
+inclui t�tulos a vencer, emite contratos e
+envia e-mails direto da tela para o seu cliente.
+Isso significa mais organiza��o e agilidade 
+no processo.
+</p><a href='https://atendimento.deps.com.br/Account/Login' target='_blank' class='btn-laranja' >Conhe�a</a></div>
+                                    </div>        </section>
+
+        <section data-aos='fade-up' class='numeros' id='section-numeros'> <h4>Nossos n�meros</h4>    <div class='numero' >
+                                            <div class='left-side' ><img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/circle.png' alt='circulo' /><p>117</p></div>
+                                            <div class='right-side' ><p>Milh�es de an�lises e rean�lises</p></div>
+                                        </div>    <div class='numero' >
+                                            <div class='left-side' ><img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/circle.png' alt='circulo' /><p>2</p></div>
+                                            <div class='right-side' ><p>Milh�es de consultas em provedores</p></div>
+                                        </div>    <div class='numero' >
+                                            <div class='left-side' ><img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/circle.png' alt='circulo' /><p>900</p></div>
+                                            <div class='right-side' ><p>Mil clientes analisados</p></div>
+                                        </div></section>
+            <section data-aos='fade-up' class="clientes" id="section-clientes">
+                <div class="clientes-title">
+                    <h3>Nossos clientes</h3>
+                </div>
+                <div class="clientes-lista">
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/piccadilly.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/og.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/reciclabr.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/megaminas.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/bauducco.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/gatabakana.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/karsten.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/coposul.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/ventisol.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/frutap.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/dismelo.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/rio-quality.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/unifort.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/minusa.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/cantu.png">
+                        </div>
+                                            <div class="cliente-item">
+                            <img src="https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/cmpc.png">
+                        </div>
+                                    </div>
+            </section>
+
+
+        <section class='depoimentos' id='section-depoimentos'><div class='videos'><h4 class='dep' >Confira depoimentos de nossos clientes</h4><div data-aos='fade-left' class='container-video' ><div class='dep-video' >
+                                            <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/Camada-1-550x309.jpg' alt='thumbnail video' class='thumb' >
+                                            <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/circulo-1_animated-2.svg' alt='bot�o de play' class='play style-svg' >
+                                            <a class='dep-video-link' data-video-id='XyqU3C7xknE' ></a>
+                                        </div><div class='dep-video' >
+                                            <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/Camada-3-550x309.jpg' alt='thumbnail video' class='thumb' >
+                                            <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/circulo-1_animated-2.svg' alt='bot�o de play' class='play style-svg' >
+                                            <a class='dep-video-link' data-video-id='vYfYcNEdZQc' ></a>
+                                        </div></div></div><div class='container-text' ><div class='dep-texto' >
+                                            <p>Ganhamos velocidade com a aprova��o autom�tica de clientes novos e de clientes especiais. A agilidade na aprova��o manual com o diagn�stico da an�lise pronta, facilitou a tomada de decis�o. Al�m disto, o sistema tem proporcionado uma �tima oferta de cr�dito, tanto para clientes ativos quanto para clientes inativos, onde possibilita pr�-an�lises eficientes indicando quais clientes focar nas vendas.</p>
+
+                                            <div class='titles' ><h3>LEANDRO DE MORAIS SOUSA</h3>
+                                            <h3>Bauducco</h3></div>
+                                        </div><div class='dep-texto' >
+                                            <p>O que nos fez iniciar a parceria foi poder estabelecer e aplicar a pol�tica de cr�dito, que foi traduzida em regras e pontua��es no sistema. Al�m da automa��o, que faz economia no tempo e esfor�o dos analistas que se concentram nas an�lises que apresentam maior risco.<br />
+Recomendamos para todos que desejam aprimorar os processos financeiros, reduzir perdas com inadimpl�ncia e otimizar o tempo do processo de venda.</p>
+
+                                            <div class='titles' ><h3>JO�O LUIZ SOUZA DA SILVA</h3>
+                                            <h3>Gmad Placa Sul Suprimentos</h3></div>
+                                        </div><div class='dep-texto' >
+                                            <p>Conseguimos desenvolver uma pol�tica de cr�dito que trabalha com um padr�o nas an�lises e fazer uma leitura clara da nossa carteira de clientes, ganhando confian�a nas aprova��es, pois o sistema libera quase 60% do cr�dito automaticamente. H� 2 anos est�vamos acima de 2,2% de inadimpl�ncia e chegamos neste ano na casa de 1,38% (clientes vencidos acima de 30 dias), mesmo com todos os problemas do mercado.</p>
+
+                                            <div class='titles' ><h3>M�RCIO PEREIRA</h3>
+                                            <h3>Brandili T�xtil</h3></div>
+                                        </div><div class='dep-texto' >
+                                            <p>A Deps alcan�ou um n�vel majestoso com os servi�os de cr�dito � clientes. A ferramenta se revelou capaz de obter e gerenciar informa��es de forma met�dica, criteriosa e confi�vel, que nos possibilita explorar potenciais em nossa carteira de clientes. Em t�o pouco tempo de opera��o j� temos tra�os da queda na inadimpl�ncia.</p>
+
+                                            <div class='titles' ><h3>WESLEY RODRIGUES</h3>
+                                            <h3>Capital Broker</h3></div>
+                                        </div><div class='dep-texto' >
+                                            <p>Atuamos no mercado competitivo de concession�ria de ve�culos, com uma carteira variada de clientes de varejo, tendo esse software garantindo a qualidade, agilidade e seguran�a financeira necess�ria aos nossos processos. Este � um importante diferencial para preservar a rentabilidade de nossas opera��es ao reduzir o risco de inadimpl�ncia e de perdas financeiras por inadequadas pr�ticas de gest�o do cr�dito.</p>
+
+                                            <div class='titles' ><h3>FERNANDO C�SAR DE OLIVEIRA</h3>
+                                            <h3>Minas M�quinas</h3></div>
+                                        </div></div></section>        
+            <section  class="adquirir" id="section-adquirir">
+                <div class="left-on-mobile">
+                    <div class="left-side">
+                        <h4>Como adquirir</h4>
+                        <p>Proporcione mais agilidade  ao trabalhar com a tecnologia  Deps em sua empresa. Fale com  um de nossos consultores. </p>                    </div>
+                    <div class="center">
+                        <a href='tel:+55 48 3430-0163'><img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/Camada-19.png' alt='telefone' /><p>+55 48 3430-0163</p></a>                    </div>
+                </div>
+                
+                <div class="right-side">
+                    <img class='adquirir-image' src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/41393114_xl.jpg' alt='pessoas em reuni�o' />                    <a id='ligamos' >Ligamos para voc�!</a>
+                    
+                <div class='gf_browser_gecko gform_wrapper' id='gform_wrapper_3' ><div id='gf_3' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_3' id='gform_3'  action='/~depscom/#gf_3'>
+                        <div class='gform_heading'>
+                            <span class='gform_description'></span>
+                        </div>
+                        <div class='gform_body'><ul id='gform_fields_3' class='gform_fields top_label form_sublabel_below description_below'><li id='field_3_1'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class="gfield_label" for="input_3_1">Seu nome<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_text"><input name="input_1" id="input_3_1" type="text" value="" class="medium" aria-required="true" aria-invalid="false" required="required"></div></li><li id='field_3_2'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class="gfield_label" for="input_3_2">Empresa<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_text"><input name="input_2" id="input_3_2" type="text" value="" class="medium" aria-required="true" aria-invalid="false" required="required"></div></li><li id='field_3_3'  class='gfield email gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class="gfield_label" for="input_3_3">E-mail<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_text"><input name="input_3" id="input_3_3" type="text" value="" class="medium" aria-required="true" aria-invalid="false" required="required"></div></li><li id='field_3_4'  class='gfield phone gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class="gfield_label" for="input_3_4">Telefone<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_text"><input name="input_4" id="input_3_4" type="text" value="" class="medium" aria-required="true" aria-invalid="false" required="required"></div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_3' class='gform_button button' value='Enviar'  onclick='if(window["gf_submitting_3"]){return false;}  if( !jQuery("#gform_3")[0].checkValidity || jQuery("#gform_3")[0].checkValidity()){window["gf_submitting_3"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_3"]){return false;} if( !jQuery("#gform_3")[0].checkValidity || jQuery("#gform_3")[0].checkValidity()){window["gf_submitting_3"]=true;}  jQuery("#gform_3").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=3&amp;title=&amp;description=1&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_3' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='3' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_3' value='WyJbXSIsIjc2OWEwMjFmNzIzN2Y1OWI3NmIwMTc0N2Y0ZWJlZDQ0Il0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_3' id='gform_target_page_number_3' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_3' id='gform_source_page_number_3' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_3' id='gform_ajax_frame_3' title='Ajax Frame'>Este iframe cont�m a l�gica necess�ria para manusear os formul�rios Gravity Forms movidos a AJAX.</iframe>
+                <script type='text/javascript'>jQuery(document).ready(function($){gformInitSpinner( 3, 'https://server.infodataweb.com.br/~depscom/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_3').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_3');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_3').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_3').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_3').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_3').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_3').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_3').val();gformInitSpinner( 3, 'https://server.infodataweb.com.br/~depscom/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [3, current_page]);window['gf_submitting_3'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_3').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_3').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [3]);window['gf_submitting_3'] = false;}, 50);}else{jQuery('#gform_3').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [3, current_page]);} );} );</script><script type='text/javascript'> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 3) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [3, 1]) } ); </script>                </div>
+            </section>
+
+        
+        <section data-aos='fade-up' class="blog" id="section-blog">
+            <div class='post-container'><h2>Blog</h2><div class='blevers'>    <a href='https://server.infodataweb.com.br/~depscom/blog/?cat=1' class='cat' id='artigos' data-id='1'>
+                                                <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/art.png' alt='Artigos' />
+                                                <h4>Artigos</h4>
+                                            </a>   <a href='https://server.infodataweb.com.br/~depscom/o-que-e-automacao-comercial-e-como-ela-pode-ajudar-uma-empresa/' class='post' >
+                                                                            <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/05/estender500-o-que-e-automacao-comercial-e-como-ela-pode-ajudar-uma-empresa-496x350.jpg' alt='thumbnail' />
+                                                                            <h3>O que � automa��o comercial e como ela pode ajudar sua empresa?</h3>
+                                                                        </a></div><div class='blevers'>    <a href='https://server.infodataweb.com.br/~depscom/blog/?cat=3' class='cat' id='noticias' data-id='3'>
+                                                <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/not.png' alt='Not�cias' />
+                                                <h4>Not�cias</h4>
+                                            </a>    <a href='https://server.infodataweb.com.br/~depscom/entenda-a-importancia-de-ter-uma-politica-de-credito-na-empresa/' class='post' >
+                                                                    <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/04/post_14_Easy-Resize.com_-525x350.jpg' alt='thumbnail' />
+                                                                    <h3>Entenda a import�ncia de ter uma pol�tica de cr�dito na empresa</h3>
+                                                                </a></div><div class='blevers'>    <a href='https://server.infodataweb.com.br/~depscom/blog/?cat=10' class='cat' id='e-books' data-id='10'>
+                                                <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/book.png' alt='E-Books' />
+                                                <h4>E-Books</h4>
+                                            </a>    <a href='https://server.infodataweb.com.br/~depscom/governanca-corporativa-e-compliance-voce-entende-as-diferencas/' class='post' >
+                                                                    <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/04/post_13-525x350.jpg' alt='thumbnail' />
+                                                                    <h3>Governan�a corporativa e compliance: voc� sabe a diferen�a?</h3>
+                                                                </a></div></div><a href='https://server.infodataweb.com.br/~depscom/blog' class='blog' >Ver blog</a>        </section>
+
+        <section class='newsletter' id='section-newsletter'>
+                <div class='left-side' >
+                    <h4>Newsletter</h4>
+                    <p>Tenha total controle na an�lise e gest�o de cr�dito da sua empresa: assine nossa newsletter para receber conte�do exclusivo</p>
+                    
+                <div class='gf_browser_gecko gform_wrapper' id='gform_wrapper_1' ><div id='gf_1' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/~depscom/#gf_1'>
+                        <div class='gform_heading'>
+                            <span class='gform_description'></span>
+                        </div>
+                        <div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1'  class='gfield email gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class="gfield_label" for="input_1_1">Seu e-mail<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_text"><input name="input_1" id="input_1_1" type="text" value="" class="medium" aria-required="true" aria-invalid="false" required="required"></div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Quero assinar!'  onclick='if(window["gf_submitting_1"]){return false;}  if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  jQuery("#gform_1").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=1&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsIjc2OWEwMjFmNzIzN2Y1OWI3NmIwMTc0N2Y0ZWJlZDQ0Il0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='Ajax Frame'>Este iframe cont�m a l�gica necess�ria para manusear os formul�rios Gravity Forms movidos a AJAX.</iframe>
+                <script type='text/javascript'>jQuery(document).ready(function($){gformInitSpinner( 1, 'https://server.infodataweb.com.br/~depscom/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://server.infodataweb.com.br/~depscom/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );</script><script type='text/javascript'> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script>
+                    <label>Ao assinar a newsletter, declaro que conhe�o a <a href='#' >Pol�tica de Privacidade</a> e autorizo a utiliza��o das minhas informa��es pela Deps.</label>
+                </div>
+                <div class='right-side' >
+                    <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/ANIMA��O-RESOLU��O-DIFERENTE-MAIS-LENTO-BUGADO.gif' alt='forma' class='forma' />
+                    <img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/Camada-40.jpg' class='img' alt='homem trabalhando ao lado da janela' />
+                </div>
+            </section>
+    </section>
+
+
+	
+	
+	
+	<footer class="main-footer">
+		<div class="main-content" >
+			<div class='img-container'>
+				<a href='https://server.infodataweb.com.br/~depscom'><img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/Layer-20-copy.png' alt='logo' /></a>
+				<img src='https://server.infodataweb.com.br/~depscom/wp-content/uploads/2019/11/Objeto-Inteligente-de-Vetor.png' alt='microsoft partner' />
+			</div>
+			<div class="menu-footer-empresa-container"><ul id="menu-footer-empresa" class="menu"><li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-48"><a href="https://server.infodataweb.com.br/~depscom/" aria-current="page">Empresa</a></li>
+<li id="menu-item-17525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17525"><a href="https://server.infodataweb.com.br/~depscom/plataforma/">Plataforma</a></li>
+<li id="menu-item-17526" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-17526"><a href="https://server.infodataweb.com.br/~depscom/#section-adquirir" aria-current="page">Como Adquirir</a></li>
+<li id="menu-item-17512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17512"><a href="https://server.infodataweb.com.br/~depscom/sou-cliente/">Sou Cliente</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-55"><a href="https://server.infodataweb.com.br/~depscom" aria-current="page">Trabalhe Conosco</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-56"><a href="https://server.infodataweb.com.br/~depscom" aria-current="page">Pol�tica de Privacidade</a></li>
+</ul></div>						<div class='blog-column'>
+				<a href='https://server.infodataweb.com.br/~depscom/blog'>Blog</a>    <a href='https://server.infodataweb.com.br/~depscom/blog/?cat=1' class='cat' id='artigos' >
+												Artigos
+											</a>    <a href='https://server.infodataweb.com.br/~depscom/blog/?cat=3' class='cat' id='noticias' >
+												Not�cias
+											</a>    <a href='https://server.infodataweb.com.br/~depscom/blog/?cat=9' class='cat' id='videos' >
+												V�deos
+											</a>    <a href='https://server.infodataweb.com.br/~depscom/blog/?cat=10' class='cat' id='e-books' >
+												E-Books
+											</a>			</div>
+			<div class='contact'>
+				<h5>FALE COM A GENTE</h5>
+				<a href='tel:+55 48 3430-0163'>+55 48 3430-0163</a>
+				<a href='mailto:deps@deps.com.br'>deps@deps.com.br</a>
+				<a href='https://atendimento.deps.com.br/Account/Login' target='_blank' >ATENDIMENTO AO CLIENTE</a>
+			</div>
+		</div>
+		<div class="subfooter">
+			<div class="main-grid">
+				<div>
+					<span class="copyright">&copy; DEPS TECNOLOGIA. TODOS OS DIREITOS RESERVADOS.</span>
+				</div>
+				<div>
+					<span class="desenvolvimento">DESENVOLVIDO POR <a target="_blank" href="https://driftweb.com.br/" rel="nofollow noopener">DRIFT WEB</a></span>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<div class="scripts">
+		            <div class='asp_hidden_data' id="asp_hidden_data" style="display: none !important;">
+                <svg style="position:absolute" height="0" width="0">
+                    <filter id="aspblur">
+                        <feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+                    </filter>
+                </svg>
+                <svg style="position:absolute" height="0" width="0">
+                    <filter id="no_aspblur"></filter>
+                </svg>
+            </div>
+        <link rel='stylesheet' id='gforms_reset_css-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css'  href='https://server.infodataweb.com.br/~depscom/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.4.15' type='text/css' media='all' />
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-content/plugins/masks-form-fields/includes/js/jquery.mask.min.js?ver=v1.14.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _mff = "loader";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-content/plugins/masks-form-fields/includes/js/scripts.js?ver=1.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_slide = {"ajaxurl":"https:\/\/server.infodataweb.com.br\/~depscom\/wp-admin\/admin-ajax.php","nonce":"84cebfea38"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-content/themes/wp-drift-master/assets/js/custom.js?ver=5.2.4'></script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-content/themes/wp-drift-master/assets/js/dft-sticky.js?ver=5.2.4'></script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-content/plugins/ajax-search-pro/js/nomin/photostack.js?ver=3Aj6WV'></script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-content/plugins/ajax-search-pro/js/min/chosen.jquery.min.js?ver=3Aj6WV'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxsearchpro = {"ajaxurl":"https:\/\/server.infodataweb.com.br\/~depscom\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/server.infodataweb.com.br\/~depscom\/wp-admin\/admin-ajax.php","js_scope":"jQuery"};
+var ASP = {"ajaxurl":"https:\/\/server.infodataweb.com.br\/~depscom\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/server.infodataweb.com.br\/~depscom\/wp-admin\/admin-ajax.php","js_scope":"jQuery","asp_url":"https:\/\/server.infodataweb.com.br\/~depscom\/wp-content\/plugins\/ajax-search-pro\/","upload_url":"https:\/\/server.infodataweb.com.br\/~depscom\/wp-content\/uploads\/asp_upload\/","detect_ajax":"0","media_query":"3Aj6WV","version":"4990","scrollbar":"1","css_loaded":"1","js_retain_popstate":"0","fix_duplicates":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-content/plugins/ajax-search-pro/js/min/jquery.ajaxsearchpro-noui-isotope.min.js?ver=3Aj6WV'></script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fechar","currentText":"Hoje","monthNames":["janeiro","fevereiro","mar\u00e7o","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"monthNamesShort":["jan","fev","mar","abr","maio","jun","jul","ago","set","out","nov","dez"],"nextText":"Seguinte","prevText":"Anterior","dayNames":["domingo","segunda-feira","ter\u00e7a-feira","quarta-feira","quinta-feira","sexta-feira","s\u00e1bado"],"dayNamesShort":["dom","seg","ter","qua","qui","sex","s\u00e1b"],"dayNamesMin":["D","S","T","Q","Q","S","S"],"dateFormat":"d \\dd\\e MM \\dd\\e yy","firstDay":0,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.4.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gf_global = {"gf_currency_config":{"name":"Real brasileiro","symbol_left":"R$","symbol_right":"","symbol_padding":" ","thousand_separator":".","decimal_separator":",","decimals":2},"base_url":"https:\/\/server.infodataweb.com.br\/~depscom\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/server.infodataweb.com.br\/~depscom\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};
+var gf_global = {"gf_currency_config":{"name":"Real brasileiro","symbol_left":"R$","symbol_right":"","symbol_padding":" ","thousand_separator":".","decimal_separator":",","decimals":2},"base_url":"https:\/\/server.infodataweb.com.br\/~depscom\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/server.infodataweb.com.br\/~depscom\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.4.15'></script>
+<script type='text/javascript' src='https://server.infodataweb.com.br/~depscom/wp-content/plugins/gravityforms-html5-validation/js/gravityforms-html5-validation.min.js?ver=2.4.2'></script>
+		<!-- Chat do Movidesk -->
+		<script type="text/javascript">var mdChatClient="92AA674962714D699C562ABD011FD59A";</script>
+		<script src="https://chat.movidesk.com/Scripts/chat-widget.min.js"></script>
+		<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+		<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+		<script>
+			AOS.init({
+				duration: 1000,
+				once: true
+			})
+		</script>
+		<!-- Chat do Movidesk fim -->
+	</div>
+	</body>
+</html>
