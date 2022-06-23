@@ -13,7 +13,7 @@
   "author": "Matheus Daros Fernandes",
   "license": "ISC",
   "dependencies": {
-    "jsdom": "^15.2.1",
+    "jsdom": "^16.5.0",
     "lodash": "^4.17.15"
   },
   "devDependencies": {
